@@ -1,7 +1,7 @@
 ﻿#include <iostream>
-#include "funcs.h"
+#include "newfuncs.h"
 
 int main()
 {
-	std::cout << IsLeapYear(4);
+	std::cout << LaterInYear(1, 2);
 }

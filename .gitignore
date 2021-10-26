@@ -1,4 +1,4 @@
 *.exe
 *.opendb
 *.db
-*.vs*
+*/Debug/*
